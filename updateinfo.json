@@ -1,5 +1,5 @@
 {
-  "latest_version": "1.7",
+  "latest_version": "1.5",
   "download_url": "https://github.com/pikuemitracsc-ai/PowerPilot_Setup_v1.7/releases/download/PowerPilot_Setup_v1.7/PowerPilot_Setup_v1.7.exe",
   "release_notes": "🚀 Test Update For Auto-Updater!\n\n- Testing Background Download\n- Verifying Progress Bar\n- Silent Installation Test"
 }
